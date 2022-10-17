@@ -11,7 +11,7 @@
 
 One of the first things you likely learned in JavaScript was how to write
 functions. In this lesson, you'll get practice writing methods in Ruby to see
-the difference between Ruby methods and JavaScript functions.
+the difference between Ruby methods and JavaScript functions.2
 
 ## Ruby Method Syntax
 
@@ -54,7 +54,7 @@ are then assigning the **return value** of `myFunction` to a new variable,
 `myFunctionReturnValue`.
 
 If we wanted to write a method in Ruby with similar functionality, here's how it
-would look:
+would look:q
 
 ```rb
 def my_method(param)
@@ -71,7 +71,7 @@ There are a few key differences in the syntax here:
 - Instead of curly parentheses, use the `end` keyword to identify where the
   method ends.
 - In Ruby, whatever the **last line of a method is will be its return value**.
-  You can use the `return` keyword to explicitly identify the return value of a
+  You can use the `return` keyword to explicitly identify tibrhe return value of a
   method, but Rubyists tend to rely on the implicit return instead.
 
 Run IRB, and copy/paste the method definition above into your IRB session. Then,
